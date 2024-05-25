@@ -1,4 +1,4 @@
-# Rage Detection Web
+# Rage Detection Web NiceGUI
 
 ## Overview
 The Rage Detection Web Application is a project that utilizes artificial intelligence (AI) to detect and analyze instances of rage or intense emotional reactions. This application can be particularly useful in various contexts, such as video game streaming, customer service interactions, or any situation where understanding and managing emotional responses is important.
